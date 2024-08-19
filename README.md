@@ -1,6 +1,6 @@
 **Rules And Terms Policies 🥈**
 -
-DONT USE İT WİTHOUT READİNG :
+Dont Use İt Without Reading ⚠️ :
 -
 The Instaloader library being used does not support the proxy module. As a result, if you don't use a PAC URL or software that automatically changes the proxy, the program will only be able to make very few attempts.
 
