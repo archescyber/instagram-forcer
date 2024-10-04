@@ -17,12 +17,14 @@ This project is a Python-based brute force tool designed to work with Instagram'
 
 1. Clone the repository:
 
-```git clone https://github.com/archescyber/cyber-bruter
+```
+git clone https://github.com/archescyber/cyber-bruter
 ```
 
 2. Install the required dependencies:
 
-```pip install -r requirements.txt
+```
+pip install -r requirements.txt
 ```
 
 3. Install the proxy service.  Make sure you have a valid proxy server to route your requests through.
@@ -35,7 +37,8 @@ This project is a Python-based brute force tool designed to work with Instagram'
 
 2. Run the script:
 
-```python main.py
+```
+python main.py
 ```
 
 3. Monitor the output for progress and results as the tool attempts to crack the password.
