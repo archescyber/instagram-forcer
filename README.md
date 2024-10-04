@@ -18,7 +18,7 @@ This project is a Python-based brute force tool designed to work with Instagram'
 1. Clone the repository:
 
 ```
-git clone https://github.com/archescyber/cyber-bruter
+git clone https://github.com/archescyber/instagram-forcer
 ```
 
 2. Install the required dependencies:
