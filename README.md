@@ -21,10 +21,10 @@ This project is a Python-based brute force tool designed to work with Instagram'
 git clone https://github.com/archescyber/instagram-forcer
 ```
 
-2. Install the required dependencies:
+2. Install the requires:
 
 ```
-pip install -r requirements.txt
+pip install instaloader
 ```
 
 3. Install the proxy service.  Make sure you have a valid proxy server to route your requests through.
