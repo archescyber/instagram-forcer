@@ -68,11 +68,11 @@ def read_passwords_from_file(filename):
     return passwords
 
 # Kullanıcı adını dosyadan oku
-username = input(f"  {VERY_LIGHT_BLUE}Instagram Username: {RESET}")
+username = input(f"  {VERY_LIGHT_BLUE}Target Instagram Username: {RESET}")
 print("")
 
 # Kullanıcıdan şifre dosyasının adını al
-filename = input(f"  {VERY_LIGHT_BLUE}Password Folder: {RESET}")
+filename = input(f"  {VERY_LIGHT_BLUE}Password List Of Target User: {RESET}")
 print("")
 
 found_correct_password = False
